@@ -124,12 +124,15 @@ brand styles here to start
 .item-product {
     padding: 40px;
 }
-
+.rating{
+    margin-left: 15px;
+}
 .top-right {
     color: rgba(224, 44, 109, 0.87);
     display: flex;
     justify-content: right;
     margin-right: 40px;
+    gap: 10px;
 }
 
 /* 
